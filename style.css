@@ -1,0 +1,42 @@
+h1{
+    color:wheat; 
+    height: 300px; 
+    text-align: center; 
+    font-size: 50px;
+    background-image:url(premium.avif)
+}
+h2{
+    background-color: aquamarine;
+    text-decoration:underline;
+    text-align: center;
+}
+.my{
+    margin: 20px;
+    margin-top: ;
+    padding: 10px;
+    border: 10px solid;
+    border-color: rgba(221, 19, 19, 0.26);
+    border-radius: 20px;
+    text-align: justify;  
+}
+.ami{
+    color: yellow;
+    background-color: black;
+    /* padding: 10px; */
+
+}
+li{
+    color: red;
+    text-align:justify ;
+    margin: inline;
+}
+.button {
+    
+    color: green;
+    
+}
+.button:hover {
+    
+    color: red;
+    
+}
